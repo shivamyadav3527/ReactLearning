@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-green-500'>Hakuna Matata</h1>
+      <h1 className='bg-green-600'>Hakuna Matata</h1>
       <Card username='shivam' hakuna/>
       <Card/>
 
